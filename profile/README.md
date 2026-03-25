@@ -1,12 +1,16 @@
-## Hi there 👋
+# Moodentropy
 
-<!--
+Studio de développement et de création numérique.
 
-**Here are some ideas to get you started:**
+**Mood** (humeur, état d'esprit) — la composante humaine et émotionnelle.
+L'intention, l'ambiance visuelle, l'empathie envers l'utilisateur final.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Entropy** (entropia — transformation) — le flux d'idées, la complexité technique,
+la matière brute numérique que nous transformons en structure.
+
+---
+
+Moodentropy est la capacité de donner un état d'esprit à la complexité technique.
+L'équilibre entre le mouvement perpétuel et la sérénité de l'usage.
+
+À la croisée de la tech et du design, nous accompagnons indépendants, startups et petites structures dans la création de produits web, mobile et interactifs, clairs, performants et alignés avec leur identité.
